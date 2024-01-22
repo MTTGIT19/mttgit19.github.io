@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> I took a non-standard path through the world of military aviation, and ended up landing my dream gig in offensive security. These are my ramblings…  
 {: .prompt-tip }
