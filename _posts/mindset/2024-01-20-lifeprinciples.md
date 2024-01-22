@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: KISS and other fine principles
 date: 2024-01-22 20:00:00 +0800
 categories: [mindset]
 tags: [mindset]     # TAG names should always be lowercase
