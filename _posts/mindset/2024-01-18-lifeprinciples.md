@@ -5,7 +5,7 @@ categories: [mindset]
 tags: [mindset]     # TAG names should always be lowercase
 ---
 
-"We are what we repeadly do. Excellence, then, is not an act, but a habit". - Will Durant
+> "We are what we repeadly do. Excellence, then, is not an act, but a habit". - Will Durant
 {: .prompt-tip }
 
 # Murphy’s Law
