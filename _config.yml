@@ -19,11 +19,11 @@ title: Unknownrider # the main title
 tagline: Personal blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Not-so technical writing. Ramblings of a hacker.
-
+  The Cyber Hangar.
+  
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://mttgit19.github.io"
+url: 'https://mttgit19.github.io'
 
 github:
   username: mttgit19 # change to your github username
