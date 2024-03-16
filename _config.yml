@@ -14,9 +14,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Unknownrider # the main title
+title: Cyber Skies # the main title
 
-tagline: Cyber Skies - Exploring Tech, Hacking, and Psychology.   
+tagline: Exploring Tech, Hacking, and Psychology.   
 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
