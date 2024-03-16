@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Unknownrider # the main title
 
-tagline: Personal blog # it will display as the sub-title
+tagline: Cyber Skies: Exploring Tech, Hacking, and Psychology.   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The Cyber Hangar.
@@ -28,14 +28,14 @@ url: 'https://mttgit19.github.io'
 github:
   username: mttgit19 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+ # username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: unknownrider
-  email: example@domain.com # change to your email address
+  #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/New_logo_center.png
+avatar: assets/img/github_hack.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
