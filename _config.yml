@@ -16,7 +16,8 @@ timezone: America/Chicago
 
 title: Unknownrider # the main title
 
-tagline: Cyber Skies: Exploring Tech, Hacking, and Psychology.   # it will display as the sub-title
+tagline: Cyber Skies - Exploring Tech, Hacking, and Psychology.   
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The Cyber Hangar.
