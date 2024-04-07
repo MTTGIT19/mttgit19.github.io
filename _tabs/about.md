@@ -11,4 +11,4 @@ order: 4
     
 While I mostly write for myself, I was inspired to open source my learning by some very well written articles on the internet about learning in public. I’ve always been an internet ‘lurker’… reading, watching and consuming, research papers, articles, videos, anything really. I figured it was about time to start creating.   
 
-You can find me on the HackTheBox Discord. Callsign: UnknownRider
+You can find me on the HackTheBox Discord. Callsign: `UnknownRider`
