@@ -26,9 +26,7 @@ The first law on this list that concerns interactions on the internet, Cunningha
 
 # The Pareto principle
 
-The Pareto Principle is the idea that it’s often the case that 80% of the output in a particular situation comes from 20% of the input. In a noisy group of students, 20% of the students will be making 80% of the noise. In a call center, 20% of the salespeople produce 80% of the sales. In healthcare, 20% of patients use 80% of the resources.
+The Pareto Principle is the idea that it’s often the case that 80% of the output in a particular situation comes from 20% of the input. In a noisy group of students, 20% of the students will be making 80% of the noise. In a call center, 20% of the salespeople produce 80% of the sales. In healthcare, 20% of patients use 80% of the resources.   
 
-
-### Sometimes we overcomplete things so remember to KISS
-
-*Keep. It. Simple. Stupid.*
+## KISS (Simple does not mean easy)  
+*KISS.* The one-word phrase my boss used to tell me when my solutions to problems were too technical or long-winded. I only realized the value of this advice when it became my time to explain the hows/whys to a large team.  
