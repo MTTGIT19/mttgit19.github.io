@@ -3,8 +3,8 @@
 - type: github
   icon: "fab fa-github"
 
-- type: cube
-  icon: assets/img/cube-solid.svg
+- type: hackthebox
+  icon: 'fas fa-cube'
   url: "https://app.hackthebox.com/profile/758161"
   
 # - type: twitter
