@@ -4,7 +4,7 @@
   icon: "fab fa-github"
 
 - type: cube
-  icon: "fas fa-cube"
+  icon: assets/img/cube-solid.svg
   url: "https://app.hackthebox.com/profile/758161"
   
 # - type: twitter
