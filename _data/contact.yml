@@ -15,7 +15,7 @@
 #  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
- - type: hackerrank
+ - type: youtube
    icon: 'fab fa-hackerrank'   # icons powered by <https://fontawesome.com/>
    url:  'https://app.hackthebox.com/profile/758161'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
