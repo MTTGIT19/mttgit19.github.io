@@ -3,10 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- url: https://app.hackthebox.com/profile/758161
-  icon: cube
-  color: green
-  fa: true
+- type: cube
+  icon: "fa-regular fa-cube"
+  url: "https://app.hackthebox.com/profile/758161"
+  
 # - type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
