@@ -5,7 +5,7 @@ categories: [mindset]
 tags: [mindset]     # TAG names should always be lowercase
 ---
 
-> "We are what we repeatedly do. Excellence, then, is not an act, but a habit". - Will Durant
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Will Durant
 {: .prompt-tip }
 
 # Murphy’s Law
@@ -18,7 +18,7 @@ It states: **A complex system that works is invariably found to have evolved fr
 
 # Occam's Razor
 
-The problem-solving principle that recommends searching for explanations constructed with the smallest possible set of elements. The principle is sometimes inaccurately paraphrased as "The simplest explanation is usually the best one”.
+The problem-solving principle that recommends searching for explanations constructed with the smallest possible set of elements. The principle is sometimes inaccurately paraphrased as "The simplest explanation is usually the best one."
 
 # Cunningham’s Law
 
